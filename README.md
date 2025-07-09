@@ -63,8 +63,6 @@ graph LR
 ```
 </pre>
 
-Or you can **export an image** from [Mermaid Live Editor](https://mermaid.live/) and put it in `/diagrams/`.
-
 ---
 
 ### Project Architecture & Workflow
